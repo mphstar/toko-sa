@@ -1,0 +1,7 @@
+Url : localhost
+Database : tokosa
+Port : 3306
+User : root
+Password : null
+
+// masukkan null pada password jika kosong
